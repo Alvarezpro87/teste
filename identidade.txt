@@ -1,3 +1,7 @@
 Nome: Alexandre Alvarez
 
 CPF: 000.000.000-00
+
+idade: 35
+
+altura. 1.94
