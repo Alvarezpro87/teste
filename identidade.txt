@@ -5,3 +5,12 @@ CPF: 000.000.000-00
 idade: 35
 
 altura. 1.94
+
+Cidade: Porto Alegre - RS
+
+País: Brasil
+
+Cor de cabelo: Castanha
+
+
+
